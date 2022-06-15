@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ABCD
 EFGH
+=======
+ABVF
+RTUI
+>>>>>>> alternate
